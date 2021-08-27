@@ -15,7 +15,7 @@ design:
     gradient_start: ""
     gradient_end: ""
     text_color_light: false
-    image: contact.jpg
+    image: ""
   spacing:
     padding:
       - 20px
@@ -23,4 +23,6 @@ design:
       - 20px
       - "0"
 ---
-The SCALes (**S**ustainability of **C**ommunities and **A**gricultural **L**andscap**es**) research group at Kansas State University examines the joint influences of environmental hazards, land use, and socioeconomic conditions in socioenvironmental systems. Our goal is to identify policy and practice solutions that promote social equity and the preservation of natural resources and ecosystems for future generations.
+> The SCALes (**S**ustainability of **C**ommunities and **A**gricultural **L**andscap**es**) research group at Kansas State University examines the joint influences of environmental hazards, land use, and socioeconomic conditions in socioenvironmental systems. Our goal is to identify policy and practice solutions that promote social equity and the preservation of natural resources and ecosystems for future generations.
+>
+> ![](contact.jpg)
