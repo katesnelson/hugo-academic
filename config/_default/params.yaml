@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: ksutheme
 day_night: true
-font: ''
+font: native
 font_size: L
 
 # SEO
